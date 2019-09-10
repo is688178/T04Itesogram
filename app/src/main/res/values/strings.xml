@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Itesogram</string>
+    <string name="username_email">Usuario/Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login_message">Iniciar sesión</string>
+    <string name="login_forget">¿Olvidaste tus datos de inicio de sesión?</string>
+    <string name="help">Obtén ayuda</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register">Regístrate</string>
+    <string name="save_in_parse">Guardar en Parse</string>
+    <string name="value_in_parse">Valor en parse</string>
+    <string name="no_asked_value">No se ha pedido el valor</string>
+    <string name="get_value">Obtener valor</string>
+</resources>
